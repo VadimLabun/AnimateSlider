@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     @objc func sliderAction() {
         
         label.text = String(format: "%.1f", slider.value)
-        graphic.procenLabel.text = String(format: "%.f%%", slider.value * 100)
+        graphic.percentLabel.text = String(format: "%.f%%", slider.value * 100)
         graphic.sharp.strokeEnd = slider.value - 0.2
     }
 

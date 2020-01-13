@@ -12,7 +12,7 @@ import UIKit
 class Graphic: UIView {
     
     let sharp = CAShapeLayer()
-    let procenLabel = UILabel()
+    let percentLabel = UILabel()
     
     
     override init(frame: CGRect) {
@@ -38,10 +38,10 @@ class Graphic: UIView {
         sharp.strokeEnd = 0
         self.layer.addSublayer(sharp)
         
-        procenLabel.frame = CGRect(x: 148, y: 230, width: 100, height: 200)
-        procenLabel.font = .systemFont(ofSize: 40, weight: .bold)
-        procenLabel.text = ""
-        addSubview(procenLabel)
+        percentLabel.frame = CGRect(x: 148, y: 230, width: 100, height: 200)
+        percentLabel.font = .systemFont(ofSize: 40, weight: .bold)
+        percentLabel.text = ""
+        addSubview(percentLabel)
     }
     
     func animation(value: CGFloat) {

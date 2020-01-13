@@ -15,7 +15,7 @@
 		765552C923B7584100ED058C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 765552C723B7584100ED058C /* LaunchScreen.storyboard */; };
 		765552D323B7596E00ED058C /* AnimateSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765552D223B7596E00ED058C /* AnimateSlider.swift */; };
 		765552D523B767D300ED058C /* GestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765552D423B767D300ED058C /* GestureRecognizer.swift */; };
-		765552D723B7833B00ED058C /* CirkleValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765552D623B7833B00ED058C /* CirkleValue.swift */; };
+		765552D723B7833B00ED058C /* CirсleValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765552D623B7833B00ED058C /* CirсleValue.swift */; };
 		76CCAAE223BF738300A94917 /* Graphic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76CCAAE123BF738300A94917 /* Graphic.swift */; };
 /* End PBXBuildFile section */
 
@@ -30,7 +30,7 @@
 		765552CA23B7584200ED058C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		765552D223B7596E00ED058C /* AnimateSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateSlider.swift; sourceTree = "<group>"; };
 		765552D423B767D300ED058C /* GestureRecognizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureRecognizer.swift; sourceTree = "<group>"; };
-		765552D623B7833B00ED058C /* CirkleValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirkleValue.swift; sourceTree = "<group>"; };
+		765552D623B7833B00ED058C /* CirсleValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CirсleValue.swift"; sourceTree = "<group>"; };
 		76CCAAE123BF738300A94917 /* Graphic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -68,7 +68,7 @@
 				765552BE23B7583C00ED058C /* SceneDelegate.swift */,
 				765552C023B7583C00ED058C /* ViewController.swift */,
 				765552D223B7596E00ED058C /* AnimateSlider.swift */,
-				765552D623B7833B00ED058C /* CirkleValue.swift */,
+				765552D623B7833B00ED058C /* CirсleValue.swift */,
 				76CCAAE123BF738300A94917 /* Graphic.swift */,
 				765552D423B767D300ED058C /* GestureRecognizer.swift */,
 				765552C223B7583C00ED058C /* Main.storyboard */,
@@ -154,7 +154,7 @@
 				765552D323B7596E00ED058C /* AnimateSlider.swift in Sources */,
 				765552D523B767D300ED058C /* GestureRecognizer.swift in Sources */,
 				765552C123B7583C00ED058C /* ViewController.swift in Sources */,
-				765552D723B7833B00ED058C /* CirkleValue.swift in Sources */,
+				765552D723B7833B00ED058C /* CirсleValue.swift in Sources */,
 				765552BD23B7583C00ED058C /* AppDelegate.swift in Sources */,
 				765552BF23B7583C00ED058C /* SceneDelegate.swift in Sources */,
 			);

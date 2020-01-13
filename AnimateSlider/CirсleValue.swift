@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 
-class CirkleValue: UIView {
+class CirсleValue: UIView {
     
     let labelValue = UILabel()
     

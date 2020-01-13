@@ -24,7 +24,7 @@ import UIKit
     var value: CGFloat = 0
     
     let view = UIView()
-    let circle = CirkleValue()
+    let circle = CirсleValue()
     let slider = UIBezierPath()
     
     
